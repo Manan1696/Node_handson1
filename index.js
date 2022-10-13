@@ -1,9 +1,9 @@
 const http = require('http');
 
 const data = {
-    Name:'Ravi',
-    lName:'Patil',
-    Age:25,
+    FName:'Manvendra',
+    LName:'Chauhan',
+    Age:26,
 
 }
 
